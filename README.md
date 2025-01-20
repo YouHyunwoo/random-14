@@ -1,3 +1,3 @@
 # random-14
 
-아핳핳아하핳핳 폭파다!!
+3시 5Chill분에 작성한 글입니다. Chill Chill
