@@ -15,7 +15,6 @@ Chill Chill 맞은 사람
 
 ![현우 프사](https://i.namu.wiki/i/5WGNOpgRRqV9XgzCA5Q6lrKZ_BnkdrsfV4Ruqou5WDUr4YINANS9zZVCTEVqrLnOhEX3PWJcGDHwQNqZFZk25ZoJMdPwBFHSbdEoIXppW_9DlvkC4p8Fqf5LVpg7VE19pVt9xJYRWyFoEBsSz4z5Fg.webp "현우")
 
-
 ## 영현
 
 닉네임 : freddy
@@ -30,6 +29,7 @@ Chill Chill 맞은 사람
 ![하준 프사](https://avatars.githubusercontent.com/u/85068289?v=4 "하준")
 
 ## 재현
+
 닉네임 : gameble98
 좋아하는 게임 : Counter-Strike 시리즈 및 FPS 대다수 + (스팀게임 대다수[장르불문])
 
