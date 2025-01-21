@@ -12,3 +12,9 @@ Chill Chill 맞은 사람
 닉네임: YouHyunwoo
 
 좋아하는 게임: 슬레이 더 스파이어
+
+
+## 영현
+
+닉네임 : freddy
+좋아하는 게임 : 롤
