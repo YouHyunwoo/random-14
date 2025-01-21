@@ -19,7 +19,7 @@ Chill Chill 맞은 사람
 
 닉네임 : freddy
 좋아하는 게임 : 롤
-![영현 프사](https://cdn.tatlerasia.com/tatlerasia/i/2024/12/10171235-gx5akrgwqaa9grx_cover_1331x1600.jpeg width="450px" height="300px" "영현")
+![영현 프사](img src="https://cdn.tatlerasia.com/tatlerasia/i/2024/12/10171235-gx5akrgwqaa9grx_cover_1331x1600.jpeg" width="450px" height="300px" "영현")
 
 ## 하준
 
