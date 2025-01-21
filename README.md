@@ -30,3 +30,5 @@ Chill Chill 맞은 사람
 ## 재현
 닉네임 : gameble98
 좋아하는 게임 : Counter-Strike 시리즈 및 FPS 대다수 + (스팀게임 대다수[장르불문])
+
+![재현 프사](https://avatars.githubusercontent.com/u/82203301?v=4 "재현")
