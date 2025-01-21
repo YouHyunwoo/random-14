@@ -12,6 +12,7 @@ Chill Chill 맞은 사람
 닉네임: YouHyunwoo
 
 좋아하는 게임: 슬레이 더 스파이어
+![현우 프사](https://x.com/PhillipBankss/status/1709421400686010418 "현우")
 
 
 ## 영현
