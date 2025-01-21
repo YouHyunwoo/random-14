@@ -2,6 +2,6 @@ class DragonballGT
 {
     public void Jigu()
     {
-        Console.WriteLine("Goodbye, World!");
+        Console.WriteLine("Goodbye, GT!");
     }
 }
