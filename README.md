@@ -25,6 +25,8 @@ Chill Chill 맞은 사람
 좋아하는 게임 : 스팀 상점 온라인
 웹으로 다녀갑니다.
 
+![하준 프사](https://avatars.githubusercontent.com/u/85068289?v=4 "하준")
+
 ## 재현
 닉네임 : gameble98
 좋아하는 게임 : Counter-Strike 시리즈 및 FPS 대다수 + (스팀게임 대다수[장르불문])
